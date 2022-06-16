@@ -1,4 +1,4 @@
-# py_viz_hackathon_whateva
+# py_viz hackathon: all about american colleges
 
 A quick visualisation study on the [dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-03-10) about **colleges, tuition fees and career prospects**
 
